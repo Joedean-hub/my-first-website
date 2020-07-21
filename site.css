@@ -1,0 +1,29 @@
+body {
+    background-color: darkgray;
+}
+
+h2, h1, h3 {
+    color: White;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(17, 20, 57);
+}
+
+img {
+    width: 50%;
+    border-radius: 15%;
+}
+
+# intro-paragraph {
+    background-color: aqua;
+}
+
+.list {
+    font-size: 25%;
+}
+
+.cool-background {
+    background-color: aquamarine;
+}
